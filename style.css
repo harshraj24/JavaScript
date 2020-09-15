@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+
+.container{
+    padding:4 2 4 2px;
+    border: 2px solid blue;
+    padding-left: 2rem;
+    padding-right:2rem;
+    display: inline-block;
+    font-size: 2rem ;
+    text-align:center;
+}

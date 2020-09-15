@@ -16,5 +16,12 @@
 //     console.log(i);
 // }
 
-var arr=["Harsh","Abhi","Bharati"]
-console.log(arr.sort())
+// var arr = ["Harsh", "Abhi", "Bharati"];
+// // console.log(arr.sort())
+
+// let d = arr.pop();
+// console.log(d)
+
+let elem = document.getElementsByClassName("container");
+elem[0].style.background="violet";
+elem[0].style.font="blue";
