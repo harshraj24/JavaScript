@@ -13,3 +13,13 @@
     font-size: 2rem ;
     text-align:center;
 }
+
+.button{
+    background-color:yellow ;
+    color: red;
+    padding: 15px 32px ;
+    margin-top:3rem ;
+    text-align: center;
+    font-size:2rem;
+
+}
