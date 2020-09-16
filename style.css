@@ -23,3 +23,11 @@
     font-size:2rem;
 
 }
+
+
+.bg-primary{
+    background-color: blueviolet;
+}
+.text-white{
+    color:white;
+}

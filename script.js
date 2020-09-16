@@ -23,5 +23,7 @@
 // console.log(d)
 
 let elem = document.getElementsByClassName("container");
+console.log(elem);
 elem[0].style.background="violet";
-elem[0].style.font="blue";
+elem[1].classList.add('bg-primary');
+elem[1].classList.add('text-white');
