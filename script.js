@@ -27,3 +27,10 @@ console.log(elem);
 elem[0].style.background="violet";
 elem[1].classList.add('bg-primary');
 elem[1].classList.add('text-white');
+
+elem[0].addEventListener('mouseover',function(){
+    console.log("Hovered on Container 1");
+})
+document.getElementById('click').addEventListener('mouseover',function(){
+    console.log("Hovered on the button");
+})
